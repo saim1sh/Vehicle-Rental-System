@@ -3,7 +3,7 @@ It's a backend project....
 
 GitHub Repository Link -- https://github.com/saim1sh/Vehicle-Rental-System
 
-Live Deployment Link -- https://vehicle-rental-system-sigma.vercel.app
+Live Deployment Link -- https://vehicle-rental-system-saim1sh-said-hussain-saims-projects.vercel.app/
 
 ### 🔐 Authentication
 Secure user access management using JWT.
